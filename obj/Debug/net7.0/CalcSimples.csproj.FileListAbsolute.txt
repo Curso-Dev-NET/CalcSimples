@@ -1,0 +1,15 @@
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\bin\Debug\net7.0\CalcSimples.exe
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\bin\Debug\net7.0\CalcSimples.deps.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\bin\Debug\net7.0\CalcSimples.runtimeconfig.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\bin\Debug\net7.0\CalcSimples.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\bin\Debug\net7.0\CalcSimples.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\obj\Debug\net7.0\CalcSimples.csproj.AssemblyReference.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\obj\Debug\net7.0\CalcSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\obj\Debug\net7.0\CalcSimples.AssemblyInfoInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\obj\Debug\net7.0\CalcSimples.AssemblyInfo.cs
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\obj\Debug\net7.0\CalcSimples.csproj.CoreCompileInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\obj\Debug\net7.0\CalcSimples.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\obj\Debug\net7.0\refint\CalcSimples.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\obj\Debug\net7.0\CalcSimples.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\obj\Debug\net7.0\CalcSimples.genruntimeconfig.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\CalcSimples\obj\Debug\net7.0\ref\CalcSimples.dll
